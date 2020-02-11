@@ -245,8 +245,8 @@ body{
 
 .avatar-img{
     height: 100vh;
-    /* position:fixed;
-    left:50%; */
+    position:fixed;
+    left:50%;
     animation: slideleft 1.5s ease 1;
     animation-delay: 1s;
     animation-fill-mode: backwards;
